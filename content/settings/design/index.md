@@ -1,6 +1,7 @@
 +++
 headless = true
-logo = "/media/picture.jpg"
-image = "/media/picture-1-.jpg"
+icon = ""
+logo = ""
+image = "/media/pic.jpg"
 color = "#3d6a7f"
 +++
