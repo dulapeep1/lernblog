@@ -14,8 +14,8 @@ footnotes = "*Quelle Bugs Bunny Bild*\n\n[Bugs Bunny wird achtzig: Unbesiegbar u
 
 ### Animation
 
-Animation ist das Aufnehmen kontinuierlicher Standbilder (Zeichnungen oder Fotografien von unbelebten Objekten) und deren Wiedergabe in schneller Folge, um eine realistische Bewegung nachzuahmen. Dies kann, wie bereits erwähnt, entweder als Zeichnung geschehen oder als Fotografie. Bei einer Zeichnung wird jede noch so kleine Bewegung gezeichnet, was sehr aufwändig in der Produktion ist. Gute Beispiele sind unsere Kindheitsstars wie zum Beispiel Bugs Bunny, Mickey Mouse oder Asterix und Obelix.  Bei Fotografien ist das ganze wesentlich einfacher. Dabei wird zwar ebenfalls jede Bewegung erfasst, jedoch muss man nur auf den Auslöser drücken und schon ist das Bild gemacht.\
-Bei beiden Varianten kann die Anzahl Bilder pro Sekunde, frames per second, variieren.
+Animation ist das Aufnehmen kontinuierlicher Standbilder (Zeichnungen oder Fotografien von unbelebten Objekten) und deren Wiedergabe in schneller Folge, um eine realistische Bewegung nachzuahmen. Dies kann, wie bereits erwähnt, entweder als Zeichnung geschehen oder als Fotografie. Bei einer Zeichnung wird jede noch so kleine Bewegung gezeichnet, was sehr aufwändig in der Produktion ist. Gute Beispiele sind unsere Kindheitsstars, wie zum Beispiel Bugs Bunny, Mickey Mouse oder Asterix und Obelix.  Bei Fotografien ist das ganze wesentlich einfacher. Dabei wird zwar ebenfalls jede Bewegung erfasst, jedoch muss man nur auf den Auslöser drücken und schon ist das Bild gemacht.\
+Bei beiden Varianten kann die Anzahl Bilder pro Sekunde, frames per second genannt, variieren.
 
 ![](bild-4.jpg "Bugs Bunny")
 
