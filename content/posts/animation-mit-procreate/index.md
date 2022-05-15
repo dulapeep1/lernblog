@@ -8,6 +8,8 @@ image = "bild-2.jpg"
 description = "In diesem Blog erfahrt Ihr wie ich eine Animation in der Applikation Procreate erstellt habe."
 footnotes = "*Quelle Bugs Bunny Bild*\n\n[Bugs Bunny wird achtzig: Unbesiegbar unbekümmert - Kultur - Stuttgarter Zeitung (stuttgarter-zeitung.de)](https://www.stuttgarter-zeitung.de/inhalt.bugs-bunny-wird-achtzig-unbesiegbar-unbekuemmert.0af0fe3d-ac65-4038-ba5d-171a8596d834.html?reduced=true)"
 +++
+![](bild-2.jpg)
+
 # Projekt der Animation
 
 ### Animation
